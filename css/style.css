@@ -220,7 +220,6 @@ margin-bottom: 0.8rem;
 .post  {
   width: 24.5rem;
   height: 6rem;
-
   box-shadow: 0 0.25rem 0.625rem rgba(212, 6, 6, 0.1); 
   display: flex;
 }
